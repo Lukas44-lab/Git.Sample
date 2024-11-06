@@ -1,4 +1,4 @@
-# git sample
+# git sample hola
 
 esto es un ejemplo del uso git
 estados de un fichero
